@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mycompany.friday",
+      "sha256_cert_fingerprints": [
+        "0A:E3:C5:C4:43:30:DB:8E:93:63:11:7A:C4:DC:7A:39:CC:D0:3A:8D:82:9D:10:B4:2D:C8:E9:AF:BE:A5:12:0E"
+      ]
+    }
+  }
+]
