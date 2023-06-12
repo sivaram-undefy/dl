@@ -1,11 +1,13 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
-           {
-             "appID": "28T8NXNRY5.app.getfriday.friday",
-             "paths": ["/??"]
-           }
-       ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appID": "28T8NXNRY5.app.getfriday.friday",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
